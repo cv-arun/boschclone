@@ -1,0 +1,40 @@
+
+body {
+    margin: 0;
+    font-family:sans-serif;
+
+}
+
+.mtop{
+    margin-top: 8%;
+}
+
+
+.card{
+    border: none;
+    
+}
+a{
+    text-decoration: none;
+}
+.card li{
+    list-style: none;
+    padding-top: 8%;
+}
+.drop{
+    display: none;
+    background-color: #eff1f2;
+    padding-left: 5%;
+    height: 12rem;
+
+}
+.panel{
+    background-color: #eff1f2;
+    
+}
+.minus{
+    display: none;
+}
+.card{
+    margin-top: 5%;
+}
